@@ -31,7 +31,7 @@ Juego realizado en el curso, mediante 5 modulos, en los cuales se aprendio lo si
 - Como implementar un límite en el juego para evitar el bucle infinito.
 - Como implementar una variable adicional para limitar la cantidad de veces que se puede jugar antes de reiniciar el juego.
 
-## Modulo 05
+## Modulo 05 - Publicando el proyecto
 - Como publicar el archivo final del proyecto en github
 - Publicacion en Github Pages
 - Creacion de cuenta en Vercel
