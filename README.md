@@ -1,5 +1,5 @@
 # Juego número secreto
-# Curso ONE Alura Latam: Lógica de programación - explorar funciones y listas
+# [ONE] Lógica de programación - explorar funciones y listas
 
 ![alt text](./img/readme.png)
 
